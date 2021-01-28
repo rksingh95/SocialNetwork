@@ -1,4 +1,5 @@
 # SocialNetwork
+For django admin view look into the directory django_admin in the project.
 
 This application helps user create the and delete, update the post.
 Post is connected with further like and comment features with multiple choice of likes as
