@@ -50,7 +50,6 @@ class CommentsManager(models.Manager):
         """
         Comment object creation
         :param comment_content:
-        :param post_comments:
         :param comment_published:
         :param kwargs:
         :return:
